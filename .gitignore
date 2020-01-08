@@ -1,0 +1,9 @@
+fastText/
+encoder/
+__pycache__/
+*.dat
+*.zip
+*.json
+*.p
+*.csv
+*.txt
